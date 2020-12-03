@@ -1,16 +1,14 @@
-### Hi there 👋
+#### I'm from Miami, FL and I try to solve difficult probelms with good policy & solid code.
 
-<!--
-**andrewjrubi/andrewjrubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills: Operations Management/Research, Project Management, Python.
 
-Here are some ideas to get you started:
+- 🚀 I’m currently working on Solidity & Smart Contracts
+- 🧠 I’m currently learning PyTorch
+- 👯 I’m looking to collaborate on open source projects
+- 🧐 Interested in: Sustainable Tech, Economic Policy, Blockchain, Cryptocurrency, ML/DL
+- 🏋️‍ Support your local Crossfit Box!
+- 🦉 Owl Post: [ajrubi57@gmail.com](mailto:ajrubi57@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/andrewrubi/) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewjrubi&show_icons=true)
