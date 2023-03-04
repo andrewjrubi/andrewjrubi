@@ -6,8 +6,6 @@
 - 🧠 I’m currently learning PyTorch
 - 👯 I’m looking to collaborate on open source projects
 - 🧐 Interested in: Sustainable Tech, Economic Policy, Blockchain, Cryptocurrency, ML/DL
-- 🏋️‍ Support your local Crossfit Box!
-- 🦉 Owl Post: [ajrubi57@gmail.com](mailto:ajrubi57@gmail.com)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/andrewrubi/) 
 
